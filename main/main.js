@@ -2,5 +2,5 @@
 module.exports = function main() {
   var a = 9;
   var b = 4;
-  return(a%b);
+ console.log('%d',a%b);
 };
