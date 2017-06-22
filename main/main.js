@@ -2,6 +2,5 @@
 module.exports = function main() {
   var a = 9;
   var b = 4;
-  alert(parseInt(a/b));
   alert(a%b);
 };
